@@ -10,5 +10,9 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "devDependencies": {
+    "vite": "^5.1.6",
+    "vite-plugin-ruby": "^5.0.0"
+  }
 }
